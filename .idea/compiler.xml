@@ -7,10 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CharacterCounter" />
+        <module name="CountMostImport" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="CharacterCounter" target="1.8" />
+      <module name="CharacterCounter" target="1.5" />
+      <module name="CountMostImport" target="1.5" />
+      <module name="ExchangeRate" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

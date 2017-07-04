@@ -6,10 +6,10 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/CharacterCounter/pom.xml" />
         <option value="$PROJECT_DIR$/CountMostImport/pom.xml" />
-        <option value="$PROJECT_DIR$/ExchangeRate/pom.xml" />
+        <option value="$PROJECT_DIR$/CharacterCounter/pom.xml" />
       </list>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.7" project-jdk-type="JavaSDK" />
 </project>
