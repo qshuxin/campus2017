@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="CharacterCount" target="1.5" />
+      <module name="CharacterCount" target="1.6" />
       <module name="CharacterCounter" target="1.5" />
       <module name="CharacterCounter1" target="1.5" />
       <module name="CountMostImport" target="1.5" />

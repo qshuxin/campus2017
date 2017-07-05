@@ -12,7 +12,7 @@
     <!-- 开启注解 -->
     <mvc:annotation-driven/>
     <!-- 配置自动扫描的包-->
-    <context:component-scan base-package="controller"></context:component-scan>
+    <context:component-scan base-package="controller,service"></context:component-scan>
     <!-- 配置视图解析器 跳页面用的-->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver" >
         <property name="prefix" value="/"></property>
