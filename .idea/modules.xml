@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CharacterCount/CharacterCount.iml" filepath="$PROJECT_DIR$/CharacterCount/CharacterCount.iml" />
       <module fileurl="file://$PROJECT_DIR$/CharacterCounter/CharacterCounter.iml" filepath="$PROJECT_DIR$/CharacterCounter/CharacterCounter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CountMostImport/CountMostImport.iml" filepath="$PROJECT_DIR$/CountMostImport/CountMostImport.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/campus2017.git.iml" filepath="$PROJECT_DIR$/.idea/campus2017.git.iml" />
     </modules>
   </component>

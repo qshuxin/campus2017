@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="CharacterCount" />
         <module name="CharacterCounter" />
-        <module name="CountMostImport" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="CharacterCount" target="1.5" />
       <module name="CharacterCounter" target="1.5" />
+      <module name="CharacterCounter1" target="1.5" />
       <module name="CountMostImport" target="1.5" />
       <module name="ExchangeRate" target="1.5" />
     </bytecodeTargetLevel>
